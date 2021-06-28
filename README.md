@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<p>Hi, I'm Ashish, a Ph.D. student working in the intersection of machine learning and computer vision to enhance human-computer interaction. I enjoy exploring techniques that involve self-supervised learning where data itself provides supervision. I am also working with brain fMRI scans to predict fatigue levels in humans with/without Traumatic Brain Injury (TBI) while performing certain cognitive tasks.</p>
+<p>Hi, I'm 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asheeshcric" alt="asheeshcric" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JingyuanChen1423" alt="JingyuanChen1423" /> </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=asheeshcric&count_private=true&show_icons=true&theme=radical" alt="asheeshcric"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asheeshcric&theme=light&hide_langs_below=1"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JingyuanChen1423&count_private=true&show_icons=true&theme=radical" alt="JingyuanChen1423"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuanChen1423&theme=light&hide_langs_below=1"/>
 </p>
 
 <p align="center">
