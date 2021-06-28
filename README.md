@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-<p>Hi, I'm 
+<p>Hi, I'm Jingyuan Chen, a incoming computer science student at University of Rochester. 
+   I am currently a research intern at Tencent AI Lab and IIP Lab at Wuhan University. My major research domin includes computer vision, machine learning, pattern recognition.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JingyuanChen1423" alt="JingyuanChen1423" /> </p>
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=JingyuanChen1423&count_private=true&show_icons=true&theme=radical" alt="JingyuanChen1423"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuanChen1423&theme=light&hide_langs_below=1"/>
+  **<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuanChen1423&theme=light&hide_langs_below=1"/>
 </p>
 
 <p align="center">
