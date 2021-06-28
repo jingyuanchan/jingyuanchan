@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <p>
-   - 🔭 Hi, I'm Jingyuan Chen, a incoming computer science student at University of Rochester. 
+   - 🔭 Hi, I'm Jingyuan Chen, a incoming computer science student at University of Rochester.
+<p>
    - 🌱 I am currently a research intern at Tencent AI Lab and IIP Lab at Wuhan University. My major research domin includes computer vision, machine learning, pattern recognition.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JingyuanChen1423" alt="JingyuanChen1423" /> </p>
