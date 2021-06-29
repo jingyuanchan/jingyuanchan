@@ -1,30 +1,46 @@
 ### Hi there 👋
 
-<p>
-   - 🔭 Hi, I'm Jingyuan Chen, a incoming computer science student at University of Rochester.
-<p>
-   - 🌱 I am currently a research intern at Tencent AI Lab and IIP Lab at Wuhan University. My major research domin includes computer vision, machine learning, pattern recognition.
+<br />
+<br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JingyuanChen1423" alt="JingyuanChen1423" /> </p>
+Hi, I'm Anurag Hazra, a passionate self-taught FrontEnd developer from India.
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JingyuanChen1423&count_private=true&show_icons=true&theme=radical" alt="JingyuanChen1423"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuanChen1423&langs_count=8&theme=light/>
-<p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/jingyuan-patrick-chen-1b99921ba/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="JingyuanChen1423" height="20" width="20" /></a>
-</p>
-<!--
-**JingyuanChen1423/JingyuanChen1423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
+- 🌱 I’m currently learning Typescript
+- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
-Here are some ideas to get you started:
+**Languages and Tools:**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+<!--- 
+  if you have forked this to use on your profile, 
+  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
+--->
+
+<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=material-palenight" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
+</a>
