@@ -25,5 +25,5 @@ Hi, I'm Jingyuan Chen, a enthusiastic undergraduate student researcher from Chin
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=JingyuanChen1423&show_icons=true&include_all_commits=true&ount_private=true&theme=radical" alt="JingyuanChen's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuanChen1423&layout=compact&theme=radical" />
+  <img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuanChen1423&layout=compact&theme=radical" />
 </a>
