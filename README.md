@@ -1,9 +1,3 @@
-
-### Hi there 
-
-<br />
-<br />
-
 Hi, I'm Jingyuan Chen, a enthusiastic undergraduate student researcher from China.
 
 - 🔭 I’m currently working at Tencent AI Lab as a research intern.
@@ -24,7 +18,7 @@ Hi, I'm Jingyuan Chen, a enthusiastic undergraduate student researcher from Chin
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=JingyuanChen1423&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="JingyuanChen's github stats" />
-  <img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuanChen1423&layout=compact&theme=radical" />
+  <img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuanChen1423&theme=radical" />
 </p>
 
 <p align="center">
