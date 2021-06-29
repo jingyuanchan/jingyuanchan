@@ -21,6 +21,6 @@ Hi, I'm Jingyuan Chen, a enthusiastic undergraduate student researcher from Chin
   <img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuanChen1423&theme=radical" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/jingyuan-patrick-chen-1b99921ba/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="JingyuanChen" height="20" width="20" /></a>
 </p>
