@@ -1,3 +1,8 @@
+### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
+
+<br />
+<br />
+
 Hi, I'm Jingyuan Chen, a enthusiastic undergraduate student researcher from China.
 
 - -🔭 I’m currently working at Tencent AI Lab as a research intern.
