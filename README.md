@@ -21,11 +21,11 @@ Hi, I'm Jingyuan Chen, a enthusiastic undergraduate student researcher from Chin
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JingyuanChen1423&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JingyuanChen1423&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuanChen1423&layout=compact&theme=material-palenight" />
+  <img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuanChen1423&layout=compact&theme=material-palenight" />
 </a>
 
 
