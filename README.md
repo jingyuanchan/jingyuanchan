@@ -1,9 +1,10 @@
 Hi, I'm Jingyuan Chen, a enthusiastic undergraduate student researcher from China.
 
-- 🔭 I’m currently working at Tencent AI Lab as a research intern.
-- 🌱 I’m currently a incoming computer science freshman at University of Rochester.
-<!-- -  I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) -->
-- 💬 Ask me about anything [here](https://github.com/JingyuanChen1423/JingyuanChen1423/issues)
+- -🔭 I’m currently working at Tencent AI Lab as a research intern.
+- -🌱 I’m currently a incoming computer science freshman at University of Rochester.
+- -😄 My main reserach domain includes computer vision, pattern recoginition and machine learning.
+<!-- - -⚡  -->
+- -💬 Ask me about anything [here](https://github.com/JingyuanChen1423/JingyuanChen1423/issues)
 
 **Languages and Tools:**  
 
