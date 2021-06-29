@@ -10,6 +10,7 @@
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=JingyuanChen1423&count_private=true&show_icons=true&theme=radical" alt="JingyuanChen1423"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuanChen1423&theme=light&hide_langs_below=1"/>
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuanChen1423&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
