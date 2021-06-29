@@ -1,4 +1,4 @@
-### Hi there, I'm [Jingyuan Chen!] 👋
+### Hi there, I'm Jingyuan Chen! 👋
 
 <br />
 <br />
