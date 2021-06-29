@@ -10,7 +10,7 @@
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=JingyuanChen1423&count_private=true&show_icons=true&theme=radical" alt="JingyuanChen1423"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuanChen1423&langs_count=8&theme=light/>
-
+<p>
 <p align="center">
   <a href="https://www.linkedin.com/in/jingyuan-patrick-chen-1b99921ba/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="JingyuanChen1423" height="20" width="20" /></a>
 </p>
