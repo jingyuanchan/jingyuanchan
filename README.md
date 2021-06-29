@@ -34,7 +34,4 @@ Hi, I'm Jingyuan Chen, a enthusiastic undergraduate student researcher from Chin
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JingyuanChen1423&repo=github-readme-stats&theme=material-palenight" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JingyuanChen1423&repo=JingyuanChen1423.github.io&theme=material-palenight" />
-</a>
+
