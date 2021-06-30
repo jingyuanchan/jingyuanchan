@@ -5,7 +5,7 @@
 </p>
 <br />
 
-- -🔭 I’m currently working at [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index) as a research intern.
+- -🔭 I’m currently working at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) as a research intern.
 - -🌱 I’m currently a incoming computer science freshman student at University of Rochester.
 - -🤝 I'm currently a visiting researcher at [Artificial Intelligent and Machine Vision Lab](http://iip.whu.edu.cn/index.html) at Wuhan University.
 - -😄 My main reserach domain includes computer vision, pattern recoginition and machine learning with a focus on mid&high level vision tasks such as video understanding, object detection, etc.
