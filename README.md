@@ -38,7 +38,7 @@
 
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JingyuanChen1423&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="JingyuanChen's github stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JingyuanChen1423&show_icons=true&count_private=true&theme=radical" alt="JingyuanChen's github stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuanChen1423&theme=radical" />
 </p>
 
