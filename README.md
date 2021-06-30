@@ -4,7 +4,6 @@ Hi, I'm Jingyuan Chen, a enthusiastic undergraduate student researcher from Chin
   <img src="https://komarev.com/ghpvc/?username=JingyuanChen1423" alt="JingyuanChen" /> 
 </p>
 <br />
-
 - -🔭 I’m currently working at Tencent AI Lab as a research intern.
 - -🌱 I’m currently a incoming computer science freshman at University of Rochester.
 - -😄 My main reserach domain includes computer vision, pattern recoginition and machine learning.
