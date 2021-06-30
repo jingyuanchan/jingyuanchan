@@ -1,5 +1,8 @@
 ## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 Hi, I'm Jingyuan Chen, a enthusiastic undergraduate student researcher from China.
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=JingyuanChen1423" alt="JingyuanChen" /> 
+</p>
 <br />
 
 - -🔭 I’m currently working at Tencent AI Lab as a research intern.
@@ -7,9 +10,6 @@ Hi, I'm Jingyuan Chen, a enthusiastic undergraduate student researcher from Chin
 - -😄 My main reserach domain includes computer vision, pattern recoginition and machine learning.
 - -💬 Ask me about anything [here](https://github.com/JingyuanChen1423/JingyuanChen1423/issues)
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=JingyuanChen1423" alt="JingyuanChen" /> 
-</p>
 <br />
 
 ## 📫 Find me on:
