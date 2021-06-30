@@ -26,7 +26,7 @@ Hi, I'm Jingyuan Chen, a enthusiastic undergraduate student researcher from Chin
 </p>
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JingyuanChen1423&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="JingyuanChen's github stats" />
-  <img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuanChen143&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JingyuanChen1423&show_icons=true&include_all_commits=true&cunt_private=true&theme=radical" alt="JingyuanChen's github stats" />
+  <img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingyuanChen1423&theme=radical" />
 </p>
 
