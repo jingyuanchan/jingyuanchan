@@ -4,10 +4,9 @@ Hi, I'm Jingyuan Chen, a enthusiastic undergraduate student researcher from Chin
 <br />
 <br />
 
--🔭 I’m currently working at Tencent AI Lab as a research intern.
--🌱 I’m currently a incoming computer science freshman at University of Rochester.
--😄 My main reserach domain includes computer vision, pattern recoginition and machine learning.
-<!-- - -⚡  -->
+- -🔭 I’m currently working at Tencent AI Lab as a research intern.
+- -🌱 I’m currently a incoming computer science freshman at University of Rochester.
+- -😄 My main reserach domain includes computer vision, pattern recoginition and machine learning.
 - -💬 Ask me about anything [here](https://github.com/JingyuanChen1423/JingyuanChen1423/issues)
 
 **Languages and Tools:**  
