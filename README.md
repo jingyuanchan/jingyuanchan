@@ -3,9 +3,10 @@
   Hi, I'm Jingyuan Chen, a enthusiastic incoming undergraudte student researcher from China.
   <img src="https://komarev.com/ghpvc/?username=JingyuanChen1423" alt="JingyuanChen" /> 
 <!--   <img (https://hitcounter.pythonanywhere.com/count/tag.svg?url = Paste_Your_GitHub_Repository_Link_Here -->
-  ![Hit](https://hitcounter.pythonanywhere.com/count/tag.svg?url = "https://github.com/jingyuanchan/AICity_2021_Anomaly_Detection.git")
+
 
 </p>
+![Hit](https://hitcounter.pythonanywhere.com/count/tag.svg?url = "https://github.com/jingyuanchan/AICity_2021_Anomaly_Detection.git")
 <br />
 
 - -🔭 I’m currently working at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) as a research intern.
