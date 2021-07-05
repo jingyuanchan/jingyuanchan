@@ -1,4 +1,4 @@
-## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
+# Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 <p align="left"> 
   Hi, I'm Jingyuan Chen, a enthusiastic incoming undergraudte student researcher from China.
   <img src="https://komarev.com/ghpvc/?username=JingyuanChen1423" alt="JingyuanChen" /> 
