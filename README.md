@@ -2,8 +2,9 @@
 
 <p align="left"> 
   Hi, I'm Jingyuan Chen, a enthusiastic incoming undergraudte student researcher from China.
+  <img align="right"src="https://komarev.com/ghpvc/?username=JingyuanChen1423" alt="JingyuanChen" /> 
 </p>
-<img align="right"src="https://komarev.com/ghpvc/?username=JingyuanChen1423" alt="JingyuanChen" /> 
+
 <br />
 
 - -🔭 I’m currently working at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) as a research intern.
