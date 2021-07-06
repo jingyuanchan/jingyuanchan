@@ -1,4 +1,4 @@
-# Glad to see you here &nbsp; <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
+## Glad to see you here &nbsp; <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <p align="left"> 
   Hi, I'm Jingyuan Chen, a enthusiastic incoming undergraudte student researcher from China.
