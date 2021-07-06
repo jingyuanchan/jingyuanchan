@@ -12,6 +12,9 @@
 - -🤝 I'm currently a visiting researcher at [Artificial Intelligent and Machine Vision Lab](http://iip.whu.edu.cn/index.html) at Wuhan University.
 - -😄 My main reserach domain includes computer vision, pattern recoginition and machine learning with a focus on mid&high level vision tasks such as video understanding, object detection, etc.
 - -💬 Ask me about anything [here](https://github.com/jingyuanchan/jingyuanchan/issues)
+
+<br />
+
 Joined Github **2** years ago.
 
 Since then I pushed **1695**+ commits, opened **221**+ issues, submitted **238**+ pull requests, created **20**+ gists and contributed to **13**+ public repositories.
@@ -19,8 +22,6 @@ Since then I pushed **1695**+ commits, opened **221**+ issues, submitted **238**
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
-<br />
 
 ## 📫 Find me on:
 <p align="center">
