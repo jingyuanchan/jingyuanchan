@@ -1,4 +1,4 @@
-## Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>, I am Jingyuan Chen! &nbsp;
+## Hi<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>, I am Jingyuan Chen! &nbsp;
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jingyuanchan.jingyuanchan&style=flat-square&color=0088cc) ![](https://komarev.com/ghpvc/?username=JingyuanChen1423)
 
@@ -12,10 +12,20 @@ Joined Github this year.
 
 <br />
 
+### Talking about Personal Stuffs:
+
+- 🔭 &nbsp; I’m currently working at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) as a research intern.
+- 🚀 &nbsp; I'm currently a visiting researcher at [Artificial Intelligent and Machine Vision Lab](http://iip.whu.edu.cn/index.html) at Wuhan University.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
+- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/jingyuanchan/jingyuanchan/issues)
 - -🔭 I’m currently working at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) as a research intern.
 - -🌱 I’m currently a incoming computer science freshman student at University of Rochester.
-- -🤝 I'm currently a visiting researcher at [Artificial Intelligent and Machine Vision Lab](http://iip.whu.edu.cn/index.html) at Wuhan University.
-- -😄 My main reserach domain includes computer vision, pattern recoginition and machine learning with a focus on mid&high level vision tasks such as video understanding, object detection, etc.
+- -🤝 
+
 - -💬 Ask me about anything [here](https://github.com/jingyuanchan/jingyuanchan/issues)
 
 <br />
