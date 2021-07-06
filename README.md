@@ -1,4 +1,4 @@
-##Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>, I am Jingyuan Chen! &nbsp;
+## Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>, I am Jingyuan Chen! &nbsp;
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jingyuanchan.jingyuanchan&style=flat-square&color=0088cc) ![](https://komarev.com/ghpvc/?username=JingyuanChen1423)
 
