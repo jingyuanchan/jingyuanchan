@@ -41,7 +41,7 @@ Joined Github this year.
 
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jingyuanchan&show_icons=true&inclue_all_commits&count_private=true&theme=radical" alt="JingyuanChen's github stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jingyuanchan&show_icons=true&include_all_commits&count_private=true&theme=radical" alt="JingyuanChen's github stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jingyuanchan&layout=copact&theme=radical" />
 </p>
 
