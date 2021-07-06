@@ -1,7 +1,7 @@
 ## Hi<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>, I am Jingyuan Chen! &nbsp;
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jingyuan-chen-1b99921ba/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]	(mailto:jingyuanchen1423@gmail.com)
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jingyuanchan.jingyuanchan&style=flat-square&color=0088cc) ![](https://komarev.com/ghpvc/?username=JingyuanChen1423)
 
 I'm a incoming undergraduate student pursuing Bachelors's in Computer Science and Cognitive Science🎓 at University of Rochester 🏛. I'm a enthusiast who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also am doing research on computer vision, pattern recogition and machine learning. 👨🏻‍💻 My main research direction is high-level and mid-lavel vision tasks including video understanding, object detection, etc.🕸️.
@@ -22,12 +22,6 @@ Joined Github this year.
 - 👾 &nbsp; Fun fact: Intelligence comes after Artificial.
 - 📫 &nbsp; How to reach me: jingyuanchen1423@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/jingyuanchan/jingyuanchan/blob/main/Resume%20of%20Jingyuan%20Chen.pdf).
-
-### Find me on:
-<p align="left">
- <a href="https://www.linkedin.com/in/jingyuan-patrick-chen-1b99921ba/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="27" style="vertical-align:top; margin:3px"></a>
- <a href="mailto:jingyuanchen1423@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="27" style="vertical-align:top; margin:3px"></a> 
-</p>
 
 ### Languages and Tools 🧰: 
 <p align="left">
