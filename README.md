@@ -2,6 +2,7 @@
 
 <p align="left"> 
   Hi, I'm Jingyuan Chen, a enthusiastic incoming undergraudte student researcher from China.
+  [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
   <img align="right"src="https://komarev.com/ghpvc/?username=JingyuanChen1423" alt="JingyuanChen" /> 
 </p>
 
