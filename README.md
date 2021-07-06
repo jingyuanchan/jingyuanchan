@@ -27,8 +27,6 @@ Joined Github this year.
  <a href="mailto:jingyuanchen1423@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a> 
 </p>
 
-<br />
-
 ### 🧰 Languages and Tools: 
 <p align="left">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
