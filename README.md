@@ -10,30 +10,16 @@ Joined Github this year.
  -->
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-<br />
 
 ### Talking about Personal Stuffs:
 
 - 🔭 &nbsp; I’m currently working at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) as a research intern.
 - 🚀 &nbsp; I'm currently a visiting researcher at [Artificial Intelligent and Machine Vision Lab](http://iip.whu.edu.cn/index.html) at Wuhan University.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/jingyuanchan/jingyuanchan/issues)
-- -🔭 I’m currently working at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) as a research intern.
-- -🌱 I’m currently a incoming computer science freshman student at University of Rochester.
-- -🤝 
-
-- -💬 Ask me about anything [here](https://github.com/jingyuanchan/jingyuanchan/issues)
-
-<br />
-
-
-
-### Talking about Personal Stuffs:
-
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/jingyuanchan).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/jingyuanchan/jingyuanchan/issues)! I am happy to help.
+- 👾 &nbsp; Fun fact: Intelligence comes after Artificial.
+- 📫 &nbsp; How to reach me: jingyuanchen1423@gmail.com.
+- 📝 &nbsp; Checkout my [Resume](https://github.com/jingyuanchan/jingyuanchan/blob/main/Resume%20of%20Jingyuan%20Chen.pdf).
 
 ## 📫 Find me on:
 <p align="center">
