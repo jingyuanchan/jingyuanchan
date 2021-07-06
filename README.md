@@ -4,7 +4,7 @@
   Hi, I'm Jingyuan Chen, a enthusiastic incoming undergraudte student researcher from China.
   <img align="right"src="https://komarev.com/ghpvc/?username=JingyuanChen1423" alt="JingyuanChen" /> 
 </p>
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+
 <br />
 
 - -🔭 I’m currently working at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) as a research intern.
@@ -13,7 +13,7 @@
 - -😄 My main reserach domain includes computer vision, pattern recoginition and machine learning with a focus on mid&high level vision tasks such as video understanding, object detection, etc.
 - -💬 Ask me about anything [here](https://github.com/jingyuanchan/jingyuanchan/issues)
 
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+[![](https://gitwar.herokuapp.com/badge?username=jingyuanchan&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
