@@ -1,7 +1,7 @@
 ## Hi<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>, I am Jingyuan Chen! &nbsp;
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jingyuan-chen-1b99921ba/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]	(mailto:jingyuanchen1423@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jingyuanchen1423@gmail.com)
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jingyuanchan.jingyuanchan&style=flat-square&color=0088cc) ![](https://komarev.com/ghpvc/?username=JingyuanChen1423)
 
 I'm a incoming undergraduate student pursuing Bachelors's in Computer Science and Cognitive Science🎓 at University of Rochester 🏛. I'm a enthusiast who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also am doing research on computer vision, pattern recogition and machine learning. 👨🏻‍💻 My main research direction is high-level and mid-lavel vision tasks including video understanding, object detection, etc.🕸️.
