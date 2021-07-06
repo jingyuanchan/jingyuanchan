@@ -1,9 +1,9 @@
-# Glad to see you here <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a> &nbsp;
+# Glad to see you here &nbsp; <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 
 <p align="left"> 
   Hi, I'm Jingyuan Chen, a enthusiastic incoming undergraudte student researcher from China.
-  <img src="https://komarev.com/ghpvc/?username=JingyuanChen1423" alt="JingyuanChen" /> 
 </p>
+![]<img src="https://komarev.com/ghpvc/?username=JingyuanChen1423" alt="JingyuanChen" /> 
 <br />
 
 - -🔭 I’m currently working at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) as a research intern.
