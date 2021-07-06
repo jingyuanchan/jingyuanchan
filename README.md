@@ -1,4 +1,4 @@
-## Glad to see you here &nbsp; <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
+##Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>, I am Jingyuan Chen! &nbsp;
 
 <p align="left"> 
   Hi, I'm Jingyuan Chen, a enthusiastic incoming undergraudte student researcher from China.
@@ -15,16 +15,14 @@
 
 <br />
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=jingyuanchan&style=flat-square&color=0088cc)
 
 I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-Joined Github **2** years ago.
+Joined Github this year.
 
-Since then I pushed **1695**+ commits, opened **221**+ issues, submitted **238**+ pull requests, created **20**+ gists and contributed to **13**+ public repositories.
-
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
+<!-- Since then I pushed **1695**+ commits, opened **221**+ issues, submitted **238**+ pull requests, created **20**+ gists and contributed to **13**+ public repositories.
+ -->
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
