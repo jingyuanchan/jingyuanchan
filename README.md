@@ -15,7 +15,7 @@ Joined Github this year.
 
 ### Talking about Personal Stuffs:
 
-- 🔭 &nbsp; I’m currently working at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) as a research intern.
+- 🔭 &nbsp; I'm currently working at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) as a research intern.
 - 🚀 &nbsp; I'm currently a visiting researcher at [Artificial Intelligent and Machine Vision Lab](http://iip.whu.edu.cn/index.html) at Wuhan University.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/jingyuanchan).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/jingyuanchan/jingyuanchan/issues)! I am happy to help.
