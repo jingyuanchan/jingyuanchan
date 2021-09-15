@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jingyuanchen1423@gmail.com)
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jingyuanchan.jingyuanchan&style=flat-square&color=0088cc) ![](https://komarev.com/ghpvc/?username=JingyuanChen1423)
 
-I'm an incoming undergraduate student pursuing a Bachelors's in Computer Science and Cognitive Science🎓 at the University of Rochester 🏛. I'm an enthusiast who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that, I also am doing research on computer vision, pattern recognition, and machine learning. 👨🏻‍💻 My main research direction is high-level and mid-level vision tasks, including video understanding, object detection, etc.🕸️.
+I'm an undergraduate student pursuing a Bachelors's in Computer Science and Cognitive Science🎓 at the University of Rochester 🏛. I'm an enthusiast who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that, I also am doing research on computer vision, pattern recognition, and machine learning. 👨🏻‍💻 My main research direction is high-level and mid-level vision tasks, including video understanding, object detection, etc.🕸️.
 
 Joined Github this year.
 
@@ -15,8 +15,9 @@ Joined Github this year.
 
 ### Talking about Personal Stuffs:
 
-- 🔭 &nbsp; I'm currently working at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) as a research intern.
-- 🚀 &nbsp; I'm currently a visiting researcher at [Artificial Intelligent and Machine Vision Lab](http://iip.whu.edu.cn/index.html) at Wuhan University.
+- 🔭 &nbsp; I'm a undergraduate researcher at [Vista](https://www.cs.rochester.edu/u/jluo/) Group,supervised by [Prof. Jiebo Luo](https://scholar.google.com/citations?user=CcbnBvgAAAAJ&hl=en), at University of Rochester
+- 🔭 &nbsp; I'm used to work at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) as a research intern.
+- 🚀 &nbsp; I'm used to be a visiting researcher at [Intelligent Information Processing](http://iip.whu.edu.cn/index.html) at Wuhan University.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/jingyuanchan).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/jingyuanchan/jingyuanchan/issues)! I am happy to help.
 - 👾 &nbsp; Fun fact: Intelligence comes after Artificial.
