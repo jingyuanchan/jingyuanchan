@@ -22,7 +22,7 @@ Joined Github this year.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/jingyuanchan/jingyuanchan/issues)! I am happy to help.
 - 👾 &nbsp; Fun fact: Intelligence comes after Artificial.
 - 📫 &nbsp; How to reach me: jingyuanchen1423@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/jingyuanchan/jingyuanchan/blob/main/Resume%20of%20Jingyuan%20Chen.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/jingyuanchan/jingyuanchan/blob/main/Jingyuan_Chen_Resume.pdf).
 
 ### Languages and Tools 🧰: 
 <p align="left">
